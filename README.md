@@ -12,4 +12,6 @@ Our clustering model paints a vivid picture of the customer landscape, allowing 
 products, and interactions to cater to each segment's unique characteristics.
 But our journey doesn't end there. I recognize the importance of precision, and so I delve into hyperparameter tuning to fine-tune the clustering model to perfection. 
 This step ensures that the segments aren't just loosely defined groups but accurate reflections of customer behavior.
+
+
 It equips the e-commerce company with the insights needed to make data-driven decisions, enhance customer satisfaction, boost sales, and optimize marketing efforts.
