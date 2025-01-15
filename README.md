@@ -1,5 +1,7 @@
 The mission is to unlock the potential hidden within a vast trove of e-commerce sales data using Python and the scikit-learn library. 
 The business case at hand is to better understand the customer base of an e-commerce company, and transforming this information into actionable insights.
+
+
 Our journey begins with data preparation, where I clean, format, and structure the raw data, ensuring that the data is in a state that can be effectively analyzed.
 The true artistry of the work comes to light in the segmentation phase.
 With Python and scikit-learn, I employ the K-means clustering algorithm to partition the customers into distinct segments. 
